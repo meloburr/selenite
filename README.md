@@ -1,2 +1,2 @@
-# termil
-A light-weight, modern, minimalist terminal app.
+# Termil
+Termil is a light-weight, modern, minimalist terminal app.
